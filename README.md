@@ -44,3 +44,41 @@ Skills acquired at the end of the training :
 ## REMARKS
 
 Each participant must come with a laptop with WIFI connection throughout the module. They must the rights to install software (disk space required: 2GB). No computer will be provided to participants.
+
+## CHECKPOINTS
+
+###  DAY 1
+
+#### Introduction
+
+- [ ] Round table
+- [ ] Software verification
+- [ ] First example: simple 2D plot (numpy, matplotlib)
+- [ ] More complex example: csv file and plot 3D map (pandas, scipy)
+- Python interfaces: IDEs (VScode, Spyder), Jupyter, ...
+
+#### Better code
+- [ ] Functions and classes: why and how ?.  Examples: vector, 
+- [ ] Fast code with Python (Python, numpy, numba): example Moore neighbors and the Game of Life
+
+
+#### Topics
+- [ ] Data processing with Pandas
+- [ ] Image processing
+- [ ] Maths: optimization, integration, ODE, ...
+- [ ] Machine learning: Scikit, Pytorch, 
+- 
+
+###  DAY 2
+
+#### Your own library:
+
+- [ ] Modules and classes
+- [ ] Code Versioning with GIT
+- [ ] Collaborating with GIT
+
+#### Personal project:
+
+- [ ] Apply new skills to your project
+
+
