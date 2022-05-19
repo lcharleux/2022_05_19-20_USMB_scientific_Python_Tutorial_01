@@ -82,3 +82,21 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 #### Personal project:
 
 - [ ] Apply new skills to your project
+
+
+#### Needs (round table):
+
+- [ ]: Data processing
+- [ ]: Image processing
+- [ ]: Simulation software (Abaqus) input
+- [ ]: Machine learning, clustering, Scikit/learn
+- [ ]: Data post-processing, Pandas
+- [ ]: Signal processing
+- [ ]: Code sharing, general code organization
+- [ ]: Text file processing
+- [ ]: Processing automatization
+- [ ]: Modelling, speed improvements
+- [ ]: General Python Introduction
+
+
+
