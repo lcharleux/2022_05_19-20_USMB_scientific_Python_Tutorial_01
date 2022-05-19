@@ -14,13 +14,13 @@ b = 5
 def func(x, a, b):
     return b * np.cos(a * x) * x**2 
 
-x = np.linspace(0., 10., 100)
+x = np.linspace(0., 10., 1000)
 y = func(x, a, b)
 
 Num_file = 20
 for n in range(Num_file):
     print("GENERATING FILE #{0}".format(n))
-    noise = np.random.normal(scale = 0.1, size=y.size)
+    noise = np.random.normal(scale = 20, size=y.size)
     yn = y + noise
     data = pd.DataFrame()
     data["x"] = x
