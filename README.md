@@ -52,20 +52,20 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 #### Introduction
 
-- [ ] Round table
-- [ ] Software verification
-- [ ] First example: simple 2D plot (numpy, matplotlib)
-- [ ] More complex example: csv file and plot 3D map (pandas, scipy) or [elementary cellular automata](https://en.wikipedia.org/wiki/Elementary_cellular_automaton)
+- [x] Round table
+- [x] Software verification
+- [x] First example: simple 2D plot (numpy, matplotlib)
+- [x] More complex example: csv file and plot 3D map (pandas, scipy) or [elementary cellular automata](https://en.wikipedia.org/wiki/Elementary_cellular_automaton)
 - [ ] Python interfaces: IDEs (VScode, Spyder), Jupyter, ...
 
 #### Better code
 
 - [ ] Functions and classes: why and how ?. Examples: vector, or csv dataset numerical integration.
-- [ ] Fast code with Python (Python, numpy, numba): example Moore neighbors and the Game of Life
+- [x] Fast code with Python (Python, numpy, numba): example Moore neighbors and the Game of Life
 
 #### Topics to chose
 
-- [ ] Data processing with Pandas
+- [x] Data processing with Pandas
 - [ ] Image processing
 - [ ] Applied math: optimization, integration, ODE, curve fitting.
 - [ ] Machine learning: Scikit, Pytorch,
@@ -86,17 +86,17 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 #### Needs (round table):
 
-- [ ]: Data processing
+- [x]: Data processing
 - [ ]: Image processing
 - [ ]: Simulation software (Abaqus) input
 - [ ]: Machine learning, clustering, Scikit/learn
-- [ ]: Data post-processing, Pandas
+- [x]: Data post-processing, Pandas
 - [ ]: Signal processing
 - [ ]: Code sharing, general code organization
-- [ ]: Text file processing
+- [x]: Text file processing
 - [ ]: Processing automatization
-- [ ]: Modelling, speed improvements
-- [ ]: General Python Introduction
+- [x]: Modelling, speed improvements
+- [x]: General Python Introduction
 
 
 
