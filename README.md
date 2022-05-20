@@ -76,9 +76,9 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 #### Your own library:
 
-- [ ] Modules and classes
-- [ ] Code Versioning with GIT
-- [ ] Collaborating with GIT
+- [x] Modules and classes
+- [x] Code Versioning with GIT
+- [x] Collaborating with GIT
 
 #### Personal project:
 
