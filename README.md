@@ -86,17 +86,17 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 #### Needs (round table):
 
-- [x]: Data processing
-- [ ]: Image processing
-- [ ]: Simulation software (Abaqus) input
-- [ ]: Machine learning, clustering, Scikit/learn
-- [x]: Data post-processing, Pandas
-- [ ]: Signal processing
-- [ ]: Code sharing, general code organization
-- [x]: Text file processing
-- [ ]: Processing automatization
-- [x]: Modelling, speed improvements
-- [x]: General Python Introduction
+- [x] Data processing
+- [ ] Image processing
+- [ ] Simulation software (Abaqus) input
+- [ ] Machine learning, clustering, Scikit/learn
+- [x] Data post-processing, Pandas
+- [ ] Signal processing
+- [ ] Code sharing, general code organization
+- [x] Text file processing
+- [ ] Processing automatization
+- [x] Modelling, speed improvements
+- [x] General Python Introduction
 
 
 
