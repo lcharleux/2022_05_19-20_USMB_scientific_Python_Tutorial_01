@@ -56,7 +56,8 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 - [x] Software verification
 - [x] First example: simple 2D plot (numpy, matplotlib)
 - [x] More complex example: csv file and plot 3D map (pandas, scipy) or [elementary cellular automata](https://en.wikipedia.org/wiki/Elementary_cellular_automaton)
-- [ ] Python interfaces: IDEs (VScode, Spyder), Jupyter, ...
+- [x] Classical IDE (VScode, Spyder)
+- [ ] Notebook insterface (Jupyter) 
 
 #### Better code
 
